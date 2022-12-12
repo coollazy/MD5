@@ -9,7 +9,7 @@ Swift MD5 extension
 - Package.swift 的 dependencies 增加
 
 ```
-.package(name: "MD5", url: "https://github.com/coollazy/MD5.git", from: "1.0.0"),
+.package(name: "MD5", url: "https://github.com/coollazy/MD5.git", from: "1.0.1"),
 ```
 
 - target 的 dependencies 增加
