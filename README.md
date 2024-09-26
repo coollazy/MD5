@@ -4,12 +4,14 @@
 
 Swift MD5 套件
 
+支持 String, Int, Float, Double, Date 快速轉換成 md5 字串
+
 ## SPM安裝
 
 - Package.swift 的 dependencies 增加
 
 ```
-.package(url: "git@gitlab.baifu-tech.net:ios/components/MD5.git", from: "1.1.0"),
+.package(url: "https://github.com/coollazy/MD5.git", from: "1.1.0"),
 ```
 
 - target 的 dependencies 增加
